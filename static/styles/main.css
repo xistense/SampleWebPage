@@ -1,0 +1,35 @@
+body{
+	font-family: "Helvetica Neue", Helvetica, Arial;
+	font-size: 4mm;
+	color: #454545;
+	background: no-repeat;
+	background-image: url("../images/image.jpg");
+	min-height:100%;
+	margin:0;
+	padding:0;
+}
+
+#titleBox{
+	margin:0;
+	top:10%;
+	width:98%;
+	min-height:10%;
+	text-align:center;
+	box-shadow: 5px 5px 5px 2px #fcfcfc;
+	background-color: #fafafa;
+	margin-bottom:3%;
+	opacity: 0.7;
+	padding:1vw;
+	font-size:18mm;
+	color:#52565e;
+}
+
+.contentBox{
+	padding:1%;
+	position:fixed;
+	max-width:50%;
+	left:25%;
+
+	background-color: #fafafa;
+	opacity: 0.9;	
+}
